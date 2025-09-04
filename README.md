@@ -52,15 +52,15 @@ This project analyzes whether higher-rated TV shows also receive higher vote cou
 ---
 
 ## 🗂 Repo Structure  
+```
 imdb-rating-votes/
 │
 ├── notebooks/ 
-├── notebooks_archive/
 ├── data/ 
 ├── requirements.txt 
 ├── LICENSE 
 └── README.md
-
+```
 ---
 
 ## 🚀 How to Run  
