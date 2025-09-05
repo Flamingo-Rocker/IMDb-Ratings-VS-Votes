@@ -76,7 +76,10 @@ imdb-rating-votes/
 ---
 
 ## 📦 Requirements
+
+```
 pandas==2.3.2
+```
 
 ---
 
