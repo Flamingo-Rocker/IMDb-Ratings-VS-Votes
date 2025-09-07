@@ -54,7 +54,6 @@ This project analyzes whether higher-rated TV shows also receive higher vote cou
 ## 🗂 Repo Structure  
 ```
 imdb-rating-votes/
-│
 ├── notebooks/ 
 ├── data/ 
 ├── requirements.txt 
